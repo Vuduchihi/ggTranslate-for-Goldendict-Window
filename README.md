@@ -1,4 +1,6 @@
 # ggTranslate-for-Goldendict-Window
+Các bạn dung Mac thì kéo xuống dưới có link tham khảo nhé!!!
+
 
 Bước 1: Cài đặt python3: https://www.python.org/downloads/windows/
 
