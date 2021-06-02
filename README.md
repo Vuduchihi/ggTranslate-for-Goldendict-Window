@@ -1,10 +1,10 @@
 # ggTranslate-for-Goldendict-Window
 
-nguồn tham khảo: https://github.com/xinebf/google-translate-for-goldendict
-
 Bước 1: Cài đặt python3: https://www.python.org/downloads/windows/
 
 Chú ý: xem máy bạn bao nhiêu bit để tải bản phù hợp nhé!
+ 
+Tham khảo cách cài đặt python: https://www.youtube.com/watch?v=ZTj2aPkaZPE 
 
 Bước 2: https://github.com/xinebf/google-translate-for-goldendict/blob/master/google_translate.png
 
@@ -32,10 +32,12 @@ Bước 4: mở txt
 
 Bước 4.1: python -m googletranslate vi %GDWORD% -s "translate.google.cn"
 
-Bước 4.2: C:\ -> User -> gtrans -> Scripts -> pythonw.exe -> copy path
+Bước 4.2: C:\ -> User -> gtrans1 -> Scripts -> pythonw.exe -> copy path
 
 Bước 4.3: thế vào chữ "python" ở bước 4.1 -> copy toàn bộ
 
-Bước 5: mở Goldendict
+Bước 5: mở Goldendict -> Edit -> Dictionaries -> Programs -> Add
 
+Bước 5.1: mục Type chọn Html; Name: Google Translate; Command Line: Ctrl + v
 
+nguồn tham khảo: https://github.com/xinebf/google-translate-for-goldendict
