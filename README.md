@@ -40,4 +40,9 @@ Bước 5: mở Goldendict -> Edit -> Dictionaries -> Programs -> Add
 
 Bước 5.1: mục Type chọn Html; Name: Google Translate; Command Line: Ctrl + v
 
-nguồn tham khảo: https://github.com/xinebf/google-translate-for-goldendict
+
+Các bạn dùng Macbook thì kham khảo link này nhé: 
+
+https://github.com/xinebf/google-translate-for-goldendict
+
+https://www.youtube.com/watch?v=1opEeB9WLYU
