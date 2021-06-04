@@ -44,8 +44,11 @@ Bước 5.1: mục Type chọn Html; Name: Google Translate; Command Line: Ctrl 
 
 LƯU Ý: nếu các bạn muốn từ đồng nghĩa, định nghĩa, ví dụ thì ở bước 4.1 các bạn thay từ -s... thành -m -d -e 
 như này: python -m googletranslate vi %GDWORD% -m -d -e
+
 -m              show synonyms
+
 -d              show definitions
+
 -e              show examples
 
 Các bạn dùng Macbook thì kham khảo link này nhé: 
