@@ -26,7 +26,7 @@ Bước 3.6: py -m venv gtrans1
 
 Bước 3.7: .\gtrans1\Scripts\activate
 
-Bước 3.8: py -m pip install google-translate-for-goldendict
+Bước 3.8: pip3 install google-translate-for-goldendict
 
 Bước 3.9: deactivate
 
